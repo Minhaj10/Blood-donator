@@ -20,6 +20,7 @@ Blood is the most precious gift that anyone can give to another person — the g
 * BOOTSTRAP
 * PHP-framework
 * PHP-blade
+* MYSQL
 
 # Project Owner
 @Minhaj ahmed umid
